@@ -3,3 +3,6 @@ dist
 .vscode
 .vercel
 config.bat
+
+# Environment variables
+.env*.local
